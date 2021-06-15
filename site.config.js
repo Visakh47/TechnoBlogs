@@ -8,7 +8,7 @@ module.exports = {
   // rootNotionSpaceId: "74e606d8-42a4-4e30-8dba-4471c2e138dc",
   // basic site info (required)
   name: 'Techno Blogs',
-  domain: 'technoblogs.it',
+  domain: 'techno-blogs.vercel.app',
   author: 'Techno Blogs',
 
   // open graph metadata (optional)
