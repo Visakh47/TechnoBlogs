@@ -4,8 +4,8 @@ module.exports = {
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "74e606d8-42a4-4e30-8dba-4471c2e138dc",
-
+  rootNotionSpaceId: null,
+  // rootNotionSpaceId: "74e606d8-42a4-4e30-8dba-4471c2e138dc",
   // basic site info (required)
   name: 'Techno Blogs',
   domain: 'technoblogs.it',
@@ -13,7 +13,7 @@ module.exports = {
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'TTechno Blogs',
+  socialImageTitle: 'Techno Blogs',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
