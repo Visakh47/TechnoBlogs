@@ -12,7 +12,7 @@ module.exports = {
   author: 'Techno Blogs',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'A Blog Curated By The Inquisitive',
   socialImageTitle: 'Techno Blogs',
   socialImageSubtitle: 'Hello World! 👋',
 
