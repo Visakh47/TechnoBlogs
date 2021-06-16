@@ -1,4 +1,3 @@
-This has been forked from https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 
 <p align="center">
   <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
@@ -19,6 +18,8 @@ This repo is what I use to power my personal blog / portfolio site [TechnoBlogs]
 It uses Notion as a CMS, fetching content from Notion and then uses [Next.js](https://nextjs.org/) and [react-notion-x](https://github.com/NotionX/react-notion-x) to render everything.
 
 The site is then deployed to [Vercel](http://vercel.com).
+
+This has been forked from https://github.com/transitive-bullshit/nextjs-notion-starter-kit
 
 ## Features
 
