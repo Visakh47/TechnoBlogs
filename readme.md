@@ -14,7 +14,7 @@ This has been forked from https://github.com/transitive-bullshit/nextjs-notion-s
 
 ## Intro
 
-This repo is what I use to power my personal blog / portfolio site [transitivebullsh.it](https://transitivebullsh.it).
+This repo is what I use to power my personal blog / portfolio site [TechnoBlogs](https://bit.ly/TechnoBlogs).
 
 It uses Notion as a CMS, fetching content from Notion and then uses [Next.js](https://nextjs.org/) and [react-notion-x](https://github.com/NotionX/react-notion-x) to render everything.
 
